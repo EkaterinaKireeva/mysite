@@ -14,3 +14,9 @@
      display: block;
    }
 }
+
+.aside {
+  &__title {
+    font-family: $font;
+  }
+}

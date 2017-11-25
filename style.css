@@ -8,17 +8,8 @@
   .header__logo {
     margin: 0 auto 20px auto;
     display: block; }
-    .article {
-      float: left; background: white;
-      width: 420px; padding: 30px 30px 32000px 30px;
-      margin-bottom: -32000px;
-    }
-    .aside {
-      background: white;
-      float: right;  width: 230px; padding: 30px 10px 32000px 30px;
-      margin-bottom: -32000px;
-      font-family: "Trebushet MS", Arial, Helvetica, sans-serif;  font-size: 14px;
-    }
 
+.aside__title {
+  font-family: "Georgia", Times, serif !important; }
 
 /*# sourceMappingURL=style.css.map */
