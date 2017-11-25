@@ -1,4 +1,4 @@
-@import "variables.scss";
+@import "variables";
 @import "fonts.scss";
 
 .main {
@@ -11,6 +11,6 @@
    margin-bottom: 20px;
    &__logo {
      margin: 0 auto 20px auto;
-     display: block;     
+     display: block;
    }
 }
