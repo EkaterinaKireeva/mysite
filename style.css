@@ -8,12 +8,12 @@
   .header__logo {
     margin: 0 auto 20px auto;
     display: block; }
-    .main-article {
+    .article {
       float: left; background: white;
       width: 420px; padding: 30px 30px 32000px 30px;
       margin-bottom: -32000px;
     }
-    .main-aside {
+    .aside {
       background: white;
       float: right;  width: 230px; padding: 30px 10px 32000px 30px;
       margin-bottom: -32000px;
